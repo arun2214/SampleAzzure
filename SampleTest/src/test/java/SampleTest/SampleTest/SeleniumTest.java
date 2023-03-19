@@ -1,5 +1,6 @@
 package SampleTest.SampleTest;
 
+import org.openqa.selenium.WebDriver;
 //import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
@@ -13,10 +14,10 @@ public class SeleniumTest {
 		// TODO Auto-generated constructor stub
 		
 		    System.out.println("Launching google chrome with new profile..");
-	       // WebDriverManager.chromedriver().setup();
+	        //WebDriverManager.chromedriver().setup();
 	       // WebDriver driver = new ChromeDriver();
 	        
-	      //  driver.navigate().to("google.com");
+	        //driver.navigate().to("google.com");
 		    //arun
 
 }
