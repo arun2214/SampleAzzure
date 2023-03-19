@@ -107,7 +107,7 @@
 			<reuseForks>true</reuseForks>
 			<argLine>-Xmx1024m -XX:MaxPermSize-256m</argLine>
 			<suiteXmlFiles>
-			 <suiteXmlFile>SampleTest/testng.xml</suiteXmlFile>
+			 <suiteXmlFile>testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
 			</configuration>
         </plugin>
