@@ -20,7 +20,8 @@ public class SeleniumTest {
 		    System.out.println("Launching google chrome with new profile..");
 	        //WebDriverManager.chromedriver().setup();
 	       // WebDriver driver = new ChromeDriver();
-		    Assertions.assertEquals("a", "a");       
+		    Assertions.assertEquals("a", "a"); 
+		    
 	        //driver.navigate().to("google.com");
 		    //arun
 
